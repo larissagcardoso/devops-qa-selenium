@@ -50,7 +50,7 @@ jobs:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           SLACK_CHANNEl: devops-selenium
           SLACK_COLOR: ${{ job.status }}
-          SLACK_ICON: https://cdn.icon-icons.com/icons2/1506/PNG/512/emblemdefault_103756.png?size=48
+          SLACK_ICON: https://cdn-icons-png.flaticon.com/512/148/148767.png?size=48
           SLACK_MESSAGE: 'Teste do PR executado com sucesso! :white_check_mark:'
           SLACK_TITLE: 'Teste do PR executado com sucesso! :white_check_mark:'
           SLACK_USERNAME: SUCESSO
