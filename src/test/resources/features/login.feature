@@ -23,7 +23,7 @@
 
       Exemplos:
       | user                | password  | message          | name            |
-      | qualquercoisa       | 123456    | E-mail .         | E-mail inválido |
+      | qualquercoisa       | 123456    | E-mail inválido. | E-mail inválido |
       |                     | 123456    | E-mail inválido. | E-mail vazio    |
       | eduardo@qazando.com | 000       | Senha inválida.  | Senha inválida  |
       | eduardo@qazando.com |           | Senha inválida.  | Senha vazia     |
